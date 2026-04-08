@@ -6,7 +6,24 @@ This project utilizes Power BI to analyze the relationship between social media 
 
 ---
 
-## 📊 Dashboard Preview
+## 🎯 Objective
+
+* Convert raw data into actionable insights
+* Build an interactive and user-friendly dashboard
+* Analyze trends and key performance indicators (KPIs)
+
+---
+
+## 📊 Features
+
+* KPI cards for quick overview
+* Interactive filters and slicers
+* Charts for trend analysis
+* Clean and intuitive dashboard design
+
+---
+
+## 📷 Dashboard Preview
 
 ![Overview Page](dashboard_overview_page.png)
 ![Happiness Index Page](dashboard_happiness_index_page.png)
@@ -41,5 +58,30 @@ This project utilizes Power BI to analyze the relationship between social media 
 - Physical Activity: Introduce reminders for physical activity to boost user happiness. 
 
 ---
+
+## 📂 Repository Structure
+
+dataset/
+Mental_Health_and_Social_Media_Balance_Dataset.xlsx
+
+dashboard/
+dashboard_happiness_index_page/
+dashboard_overview_page
+
+powerbi_file/
+Social_Media_and_Wellbeing_Analysis.pbix
+
+README.md
+
+## 🚀 Skills Demonstrated
+
+* Data Visualization
+* Business Intelligence
+* Dashboard Development
+* Power BI Data Modeling
+
+## 📌 Conclusion
+
+This project demonstrates how Power BI can be used to transform raw sales data into meaningful visual insights that support data-driven decision making.
 
 
